@@ -1,0 +1,8 @@
+Package: xyz.sakurai07.iterm
+Version: 1.0
+Section: Utilities
+Architecture: iphoneos-arm
+Depends: Coreutils
+Maintainer: Sakurai07
+Description: Iterm
+	Iterm is a user-friendly terminal emulator, it emulates the IOS kernel under root permissions
