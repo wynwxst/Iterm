@@ -8,7 +8,9 @@ Iterm is a jailed terminal emulator with the procursus suite, this can lead to j
 # Installation
 
 ### Sandboxed
-Sign the IPA somehow probably with altstore for free and enjoy a jailed procursus terminal
+<a href=itms-services://?action=download-manifest&url=https://signtunes.com/signer/accounts/account1/uploads/386644/Iterm.plist> Click here </a>
+
+If it doesn't work download the ipa and sign it using altstore or another signing service
 
 ### Jailbroken
 go to the iterm-deb and build/ folder
