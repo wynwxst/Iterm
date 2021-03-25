@@ -8,7 +8,7 @@ Iterm is a jailed terminal emulator with the procursus suite, this can lead to j
 # Installation
 
 ### Sandboxed
-https://sakurai07.github.io/install/iterm (click there)
+https://kaneki07.github.io/install/iterm (click there)
 
 If it doesn't work download the ipa and sign it using altstore or another signing service
 
